@@ -1,9 +1,9 @@
 # emotion_detector_using_text_with_mlops
-Detecting emotions with the twitter text data and applying mlops principles
+Detecting emotions with the twitter text data and applying mlops principles 
 
 ==============================
 
-a ml project to predict emotions from text
+an ML project to predict emotions from text
 
 Project Organization
 ------------
