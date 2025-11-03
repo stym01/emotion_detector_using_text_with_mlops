@@ -1,7 +1,6 @@
 # emotion_detector_using_text_with_mlops
 Detecting emotions with the twitter text data and applying mlops principles 
 
-==============================
 
 an ML project to predict emotions from text
 
@@ -55,5 +54,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
